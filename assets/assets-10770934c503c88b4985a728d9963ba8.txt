@@ -1,0 +1,15 @@
+galaxyCompany.png
+level1.level
+level1.set1.png
+level1.set12.png
+libgdx.png
+mainMenu.png
+przyciskiwyciski.png
+tileset1.png
+ui/font-list.fnt
+ui/font-subtitle.fnt
+ui/font-window.fnt
+ui/font.fnt
+ui/uiskin.atlas
+ui/uiskin.json
+ui/uiskin.png
