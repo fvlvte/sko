@@ -1,5 +1,5 @@
 d:assets:assets:0:application/unknown:1
-i:level1.set1.png:level1.set1-30c7d95400f419999e75de2edbbf08b3.png:433472:image/png:1
+i:level1.set1.png:level1.set1-21e7e96e6a169e741f474850656b3702.png:441632:image/png:1
 d:ui:ui:0:application/unknown:1
 t:ui/font-window.fnt:ui/font-window-73e4ef96b1243364b96416c980322397.fnt:21146:application/unknown:1
 t:ui/font-list.fnt:ui/font-list-e0653fce5848e92b65f17f06365978dc.fnt:21142:application/unknown:1
